@@ -1,12 +1,12 @@
 {
-  "uid" : "7c84ffada116c1c7",
+  "uid" : "ba431e92628a6989",
   "name" : "Change profile name",
   "fullName" : "tests.feature_profile_test.TestProfileFeature#test_change_profile_name",
   "historyId" : "42b4a115007c35c622675a0baedb491a",
   "time" : {
-    "start" : 1708983932011,
-    "stop" : 1708983948481,
-    "duration" : 16470
+    "start" : 1708984684454,
+    "stop" : 1708984700774,
+    "duration" : 16320
   },
   "status" : "passed",
   "flaky" : false,
@@ -14,9 +14,9 @@
   "beforeStages" : [ {
     "name" : "driver",
     "time" : {
-      "start" : 1708983931640,
-      "stop" : 1708983932010,
-      "duration" : 370
+      "start" : 1708984684046,
+      "stop" : 1708984684454,
+      "duration" : 408
     },
     "status" : "passed",
     "steps" : [ ],
@@ -29,9 +29,9 @@
   }, {
     "name" : "setup",
     "time" : {
-      "start" : 1708983932010,
-      "stop" : 1708983932011,
-      "duration" : 1
+      "start" : 1708984684454,
+      "stop" : 1708984684454,
+      "duration" : 0
     },
     "status" : "passed",
     "steps" : [ ],
@@ -47,9 +47,9 @@
     "steps" : [ {
       "name" : "Open https://sergei-trials711.orangehrmlive.com/auth/login page",
       "time" : {
-        "start" : 1708983932011,
-        "stop" : 1708983933850,
-        "duration" : 1839
+        "start" : 1708984684454,
+        "stop" : 1708984686110,
+        "duration" : 1656
       },
       "status" : "passed",
       "steps" : [ ],
@@ -62,9 +62,9 @@
     }, {
       "name" : "Enter login",
       "time" : {
-        "start" : 1708983933850,
-        "stop" : 1708983933923,
-        "duration" : 73
+        "start" : 1708984686111,
+        "stop" : 1708984686188,
+        "duration" : 77
       },
       "status" : "passed",
       "steps" : [ ],
@@ -80,9 +80,9 @@
     }, {
       "name" : "Enter password",
       "time" : {
-        "start" : 1708983933923,
-        "stop" : 1708983933988,
-        "duration" : 65
+        "start" : 1708984686188,
+        "stop" : 1708984686251,
+        "duration" : 63
       },
       "status" : "passed",
       "steps" : [ ],
@@ -98,9 +98,9 @@
     }, {
       "name" : "Click Submit button",
       "time" : {
-        "start" : 1708983933988,
-        "stop" : 1708983937848,
-        "duration" : 3860
+        "start" : 1708984686251,
+        "stop" : 1708984690160,
+        "duration" : 3909
       },
       "status" : "passed",
       "steps" : [ ],
@@ -113,8 +113,8 @@
     }, {
       "name" : "Page https://sergei-trials711.orangehrmlive.com/client/#/dashboard is opened",
       "time" : {
-        "start" : 1708983937848,
-        "stop" : 1708983937851,
+        "start" : 1708984690160,
+        "stop" : 1708984690163,
         "duration" : 3
       },
       "status" : "passed",
@@ -128,8 +128,8 @@
     }, {
       "name" : "Click on 'My info' link",
       "time" : {
-        "start" : 1708983937851,
-        "stop" : 1708983937913,
+        "start" : 1708984690163,
+        "stop" : 1708984690225,
         "duration" : 62
       },
       "status" : "passed",
@@ -143,9 +143,9 @@
     }, {
       "name" : "Page https://sergei-trials711.orangehrmlive.com/client/#/pim/employees/1/profile is opened",
       "time" : {
-        "start" : 1708983937913,
-        "stop" : 1708983940932,
-        "duration" : 3019
+        "start" : 1708984690225,
+        "stop" : 1708984693243,
+        "duration" : 3018
       },
       "status" : "passed",
       "steps" : [ ],
@@ -158,9 +158,9 @@
     }, {
       "name" : "Open Personal detail tab",
       "time" : {
-        "start" : 1708983940932,
-        "stop" : 1708983943052,
-        "duration" : 2120
+        "start" : 1708984693243,
+        "stop" : 1708984695356,
+        "duration" : 2113
       },
       "status" : "passed",
       "steps" : [ ],
@@ -173,8 +173,8 @@
     }, {
       "name" : "Page https://sergei-trials711.orangehrmlive.com/client/#/pim/employees/1/personal_details is opened",
       "time" : {
-        "start" : 1708983943052,
-        "stop" : 1708983943074,
+        "start" : 1708984695356,
+        "stop" : 1708984695378,
         "duration" : 22
       },
       "status" : "passed",
@@ -186,11 +186,11 @@
       "stepsCount" : 0,
       "hasContent" : false
     }, {
-      "name" : "Change name on Test 59",
+      "name" : "Change name on Test 51",
       "time" : {
-        "start" : 1708983943074,
-        "stop" : 1708983946246,
-        "duration" : 3172
+        "start" : 1708984695378,
+        "stop" : 1708984698542,
+        "duration" : 3164
       },
       "status" : "passed",
       "steps" : [ ],
@@ -203,9 +203,9 @@
     }, {
       "name" : "Save changes",
       "time" : {
-        "start" : 1708983946246,
-        "stop" : 1708983946308,
-        "duration" : 62
+        "start" : 1708984698542,
+        "stop" : 1708984698606,
+        "duration" : 64
       },
       "status" : "passed",
       "steps" : [ ],
@@ -218,9 +218,9 @@
     }, {
       "name" : "Changes has been saved successfully",
       "time" : {
-        "start" : 1708983946308,
-        "stop" : 1708983948332,
-        "duration" : 2024
+        "start" : 1708984698607,
+        "stop" : 1708984700629,
+        "duration" : 2022
       },
       "status" : "passed",
       "steps" : [ ],
@@ -232,11 +232,11 @@
       "hasContent" : false
     } ],
     "attachments" : [ {
-      "uid" : "b8c1b2c8feb698fa",
-      "name" : "2024-02-26 21:45:48.332387 screenshot",
-      "source" : "b8c1b2c8feb698fa.png",
+      "uid" : "ff63ec98435de9d8",
+      "name" : "2024-02-26 21:58:20.628626 screenshot",
+      "source" : "ff63ec98435de9d8.png",
       "type" : "image/png",
-      "size" : 157307
+      "size" : 157237
     } ],
     "parameters" : [ ],
     "attachmentsCount" : 1,
@@ -247,8 +247,8 @@
   "afterStages" : [ {
     "name" : "driver::0",
     "time" : {
-      "start" : 1708983948482,
-      "stop" : 1708983948567,
+      "start" : 1708984700775,
+      "stop" : 1708984700860,
       "duration" : 85
     },
     "status" : "passed",
@@ -280,7 +280,7 @@
     "value" : "TestProfileFeature"
   }, {
     "name" : "host",
-    "value" : "a2122f35b0c3"
+    "value" : "dcf0e969a878"
   }, {
     "name" : "thread",
     "value" : "1-MainThread"
@@ -305,8 +305,27 @@
     "severity" : "critical",
     "retries" : [ ],
     "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "7c84ffada116c1c7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1708983932011,
+          "stop" : 1708983948481,
+          "duration" : 16470
+        }
+      } ]
+    },
     "tags" : [ "smoke" ]
   },
-  "source" : "7c84ffada116c1c7.json",
+  "source" : "ba431e92628a6989.json",
   "parameterValues" : [ ]
 }
